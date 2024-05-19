@@ -636,7 +636,7 @@ body.active { overflow-y: hidden; }
 
 .team-member {
   position: relative;
-  border-radius: 50%;
+  
   border: 3px solid var(--raisin-black-3);
   transition: var(--transition-1);
 }
